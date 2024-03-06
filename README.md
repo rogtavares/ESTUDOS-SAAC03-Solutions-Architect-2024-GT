@@ -7,6 +7,6 @@ estudos para passar no novo exame AWS Solutions Architect Associate (SAA-C03)
 Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar?
 
 
-esta erm edicao v2
-25 fev 2024
+esta erm edicao v3
+06 março  2024
 
