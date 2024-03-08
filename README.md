@@ -14,6 +14,6 @@ Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar? ( edica
 
 
 
-edicao v3
+edicao v4
 7  marco 2024
 
