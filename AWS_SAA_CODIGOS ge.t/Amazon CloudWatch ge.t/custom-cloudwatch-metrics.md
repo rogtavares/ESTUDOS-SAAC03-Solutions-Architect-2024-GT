@@ -45,11 +45,15 @@ aws cloudwatch put-metric-data --region us-east-1 --namespace "Personalizado/Mem
 6. Salve digitando o seguinte e pressionando Enter
    :qq
 
-## Execute o utilitário stres para gerar carga
+## Execute o utilitário  para gerar carga
 estresse-ng --vm 15 --vm-bytes 80% --vm-method todos --verify -t 60m -v
 
 ## Crie um alarme no CloudWatch
-1. Crie um alarme baseado na métrica personalizada
+1. Crie um alarme baseado na métrica personalizada, AJUDA MUITO .
+
+
+## depois encerra servicos, para nao gerar CUSTOS !
+
 
 GE TAVARES 
 
