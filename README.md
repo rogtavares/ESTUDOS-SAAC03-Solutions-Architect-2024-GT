@@ -17,5 +17,11 @@ Conhecimento e habilidades no uso do Console de Gerenciamento da AWS e da Interf
 
 Capacidade para identificar quais serviços da AWS atendem a um determinado requisito técnico e definir requisitos técnicos para uma aplicação baseada em AWS
 
+Na minha opinião, você deveria investir pelo menos 3 meses para passar no exame. DOIS mês para o curso em vídeo ou material de estudo de sua escolha (incluindo prático) 
+e outro mês para exames práticos. O exame é focado principalmente no projeto de arquiteturas seguras, arquiteturas resilientes, arquiteturas de alto desempenho e arquiteturas com custo otimizado.
 
-Gé  Tavares, v4
+Se você atua na área de segurança e deseja implementar arquiteturas seguras, existem vários serviços AWS focados em segurança, 
+por exemplo: AWS GuardDuty, Amazon Inspector, AWS Cognito, CloudTrail, firewalls de rede, WAFs e gerenciadores WAF, Secrets Managers, IAM, serviços de diretório , etc.
+
+
+Gé  Tavares, v5
