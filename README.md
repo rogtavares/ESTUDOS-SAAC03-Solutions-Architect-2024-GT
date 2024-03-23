@@ -6,14 +6,18 @@ estudos para passar no novo exame AWS Solutions Architect Associate (SAA-C03)
 
  Nesse  estudos e (minhas) preparação para o exame AWS Certified Solutions Architect – Associate (SAA-C03). 
 
- O exame AWS Certified Solutions Architect – Associate (SAA-C03) demonstra conhecimento e habilidades na tecnologia da AWS, 
- em diversos serviços. O foco da certificação é a criação de soluções otimizadas para custo e desempenho, demonstrando sólido conhecimento da 
- AWS Well-Architected Framework.
+A preparação e a obtenção desta certificação...
 
-Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar? ( edicao)
+Conhecimento e habilidades em computação, rede, armazenamento e serviços de banco de dados da AWS, bem como serviços de implantação e gerenciamento da AWS
 
 
+Conhecimento e habilidades em implementação, gerenciamento e operação de workloads na AWS, bem como na implementação de controles de segurança e requisitos de conformidade
 
-edicao v4
-7  marco 2024
+Conhecimento e habilidades no uso do Console de Gerenciamento da AWS e da Interface da Linha de Comando (CLI) da AWS, compreensão do AWS Well-Architected Framework, da rede da AWS, dos serviços de segurança e da infraestrutura global da AWS
 
+
+Capacidade para identificar quais serviços da AWS atendem a um determinado requisito técnico e definir requisitos técnicos para uma aplicação baseada em AWS
+
+
+
+Ge Tavares, v3
