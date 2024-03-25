@@ -1,11 +1,10 @@
 # ESTUDOS-SAAC03-Solutions-Architect-2024-GT
-estudos para passar no novo exame AWS Solutions Architect Associate (SAA-C03)
+
+Nesse  estudos e (minhas) preparação para a prova AWS Certified Solutions Architect – Associate (SAA-C03).
 
 ![BORDADO-SSA-VERSAO-GIT-V1-3700X2469](https://github.com/rogtavares/ESTUDOS-SAAC03-Solutions-Architect-2024-GT/assets/91990479/8c0e3301-88f2-49c0-8922-211d2a177732)
 
 
- Nesse  estudos e (minhas) preparação para a prova AWS Certified Solutions Architect – Associate (SAA-C03). 
- E tornar-se um profissional com título de arquiteto de soluções AWS.
 
 
 Conhecimento e habilidades em computação, rede, armazenamento e serviços de banco de dados da AWS, bem como serviços de implantação e gerenciamento da AWS.
@@ -23,5 +22,25 @@ e outro mês para exames práticos. O exame é focado principalmente no projeto 
 Se você atua na área de segurança e deseja implementar arquiteturas seguras, existem vários serviços AWS focados em segurança, 
 por exemplo: AWS GuardDuty, Amazon Inspector, AWS Cognito, CloudTrail, firewalls de rede, WAFs e gerenciadores WAF, Secrets Managers, IAM, serviços de diretório , etc.
 
+
+Os projetos (estudos)  coloquei  GitHub  para  ajudar a organizar e priorizar  meus estudos.
+ [](https://github.com/users/rogtavares/projects/13)
+
+
+**Instrutores:**
+
+·  Neal K. Davis
+·  Stéphane Maarek
+·  Treinamento em sala de aula virtual por instrutores #AWS
+
+**Plataformas:**
+
+·  skillbuilder.aws (Treinamento, Laboratórios)
+·  awseducate.com (Laboratórios)
+·  aws.amazon.com/partners (Treinamento)
+·  Udemy (Curso, Simulados)
+·  Whizlabs (Laboratórios, Sandbox)
+
 Espero que isto ajude. Boa sorte em sua jornada de certificação.
-Gé  Tavares, v5
+
+**Gé  Tavares, v7**
