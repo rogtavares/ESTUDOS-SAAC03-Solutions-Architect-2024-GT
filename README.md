@@ -50,4 +50,6 @@ Os projetos (estudos)  coloquei  GitHub  para  ajudar a organizar e priorizar  m
 
 Espero que isto ajude. Boa sorte em sua jornada de certificação.
 
-**Gé  Tavares, v8**
+[Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
+
+**Gé  Tavares, v9**
