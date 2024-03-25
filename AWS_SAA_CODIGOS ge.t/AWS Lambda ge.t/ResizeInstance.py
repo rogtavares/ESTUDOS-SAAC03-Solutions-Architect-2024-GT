@@ -35,5 +35,5 @@ def lambda_handler(event, context):
         # Handle any exceptions that occur during the resizing process
         return f'Error resizing instance: {e}'
     
-
+GE TAVARES
 # Test event JSON: {"instanceId": "<instance-ID>"}

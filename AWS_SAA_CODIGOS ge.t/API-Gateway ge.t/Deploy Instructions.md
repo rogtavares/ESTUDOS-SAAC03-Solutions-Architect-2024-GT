@@ -99,4 +99,8 @@ O aplicativo frontend, por padrão, abre uma página de painel que mostra o link
 
 depois desliga, o servicos 
 
+## Custos
+**Ao executar os laboratórios em sua própria conta da AWS,
+você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
+
 GE TAVARES 

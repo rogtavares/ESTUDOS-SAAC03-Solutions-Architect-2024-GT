@@ -31,17 +31,23 @@ Os projetos (estudos)  coloquei  GitHub  para  ajudar a organizar e priorizar  m
 **Instrutores:**
 
 ·  Neal K. Davis
+
 ·  Stéphane Maarek
+
 ·  Treinamento em sala de aula virtual por instrutores #AWS
 
 **Plataformas:**
 
 ·  skillbuilder.aws (Treinamento, Laboratórios)
+
 ·  awseducate.com (Laboratórios)
+
 ·  aws.amazon.com/partners (Treinamento)
+
 ·  Udemy (Curso, Simulados)
+
 ·  Whizlabs (Laboratórios, Sandbox)
 
 Espero que isto ajude. Boa sorte em sua jornada de certificação.
 
-**Gé  Tavares, v7**
+**Gé  Tavares, v8**

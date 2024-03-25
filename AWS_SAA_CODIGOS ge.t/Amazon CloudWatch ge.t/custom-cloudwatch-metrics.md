@@ -52,7 +52,9 @@ estresse-ng --vm 15 --vm-bytes 80% --vm-method todos --verify -t 60m -v
 1. Crie um alarme baseado na métrica personalizada, AJUDA MUITO .
 
 
-## depois encerra servicos, para nao gerar CUSTOS !
+## Custos
+**Ao executar os laboratórios em sua própria conta da AWS,
+você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
 
 
 GE TAVARES 

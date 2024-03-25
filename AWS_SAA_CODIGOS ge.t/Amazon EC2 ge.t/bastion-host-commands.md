@@ -23,3 +23,7 @@ ssh -A -i CloudShellKeyPair.pem ec2-user@<bastion-public-ip>
 7. Conecte-se à instância na sub-rede privada a partir da instância na sub-rede pública (use o IP privado)
 
 ssh ec2-user@<instance-private-ip>
+
+## Custos
+**Ao executar os laboratórios em sua própria conta da AWS,
+você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
