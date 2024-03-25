@@ -24,7 +24,8 @@ por exemplo: AWS GuardDuty, Amazon Inspector, AWS Cognito, CloudTrail, firewalls
 
 
 Os projetos (estudos)  coloquei  GitHub  para  ajudar a organizar e priorizar  meus estudos.
- [](https://github.com/users/rogtavares/projects/13)
+
+ [GITHUB ](https://github.com/users/rogtavares/projects/13)
 
 
 **Instrutores:**
