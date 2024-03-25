@@ -23,5 +23,5 @@ e outro mês para exames práticos. O exame é focado principalmente no projeto 
 Se você atua na área de segurança e deseja implementar arquiteturas seguras, existem vários serviços AWS focados em segurança, 
 por exemplo: AWS GuardDuty, Amazon Inspector, AWS Cognito, CloudTrail, firewalls de rede, WAFs e gerenciadores WAF, Secrets Managers, IAM, serviços de diretório , etc.
 
-
+Espero que isto ajude. Boa sorte em sua jornada de certificação.
 Gé  Tavares, v5
