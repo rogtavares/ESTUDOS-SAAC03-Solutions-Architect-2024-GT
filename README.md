@@ -1,6 +1,10 @@
 # ESTUDOS-SAAC03-Solutions-Architect-2024-GT
 
-Meus estudos e preparação para a prova AWS Certified Solutions Architect – Associate (SAA-C03).
+A preparação para o exame AWS Solutions Architect Associate requer dedicação e um plano de estudos bem estruturado. 
+Seguindo estas etapas e aproveitando os fantásticos recursos disponíveis, 
+você aumentará significativamente suas chances de sucesso. 
+
+AWS Certified Solutions Architect – Associate (SAA-C03).
 
 ![BORDADO-SSA-VERSAO-GIT-V1-3700X2469](https://github.com/rogtavares/ESTUDOS-SAAC03-Solutions-Architect-2024-GT/assets/91990479/8c0e3301-88f2-49c0-8922-211d2a177732)
 
@@ -50,8 +54,11 @@ Os projetos (estudos)  coloquei  GitHub . para  ajudar a organizar e priorizar  
 
 ·  Whizlabs (Laboratórios, Sandbox)
 
+
+
 Espero que isto ajude. Boa sorte em sua jornada de certificação.
+
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v10**
+**Gé  Tavares, v11**
