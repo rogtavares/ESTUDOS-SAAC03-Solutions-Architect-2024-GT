@@ -1,40 +1,43 @@
 # ESTUDOS-SAAC03-Solutions-Architect-2024-GT
 
-A preparação para o exame AWS Solutions Architect Associate requer dedicação e um plano de estudos bem estruturado. 
-Seguindo estas etapas e aproveitando os fantásticos recursos disponíveis, 
-você aumentará significativamente suas chances de sucesso. 
-
+Preparação para o Exame 
 AWS Certified Solutions Architect – Associate (SAA-C03).
+
+Introdução:
+ Aborda os tópicos essenciais, recursos de estudo, tempo de preparação recomendado e 
+dicas para o sucesso.
+Ao seguir este guia e utilizar os recursos recomendados, você estará mais preparado para alcançar o sucesso no exame."
+
+
 
 ![BORDADO-SSA-VERSAO-GIT-V1-3700X2469](https://github.com/rogtavares/ESTUDOS-SAAC03-Solutions-Architect-2024-GT/assets/91990479/8c0e3301-88f2-49c0-8922-211d2a177732)
 
 
+Conhecimento e habilidades essenciais para o AWS Solutions Architect Associate:
 
-
-Conhecimento e habilidades em computação, rede, armazenamento e serviços de banco de dados da AWS, bem como serviços de implantação e gerenciamento da AWS.
-
-Conhecimento e habilidades em implementação, gerenciamento e operação de workloads na AWS, bem como na implementação de controles de segurança e requisitos de conformidade.
-
-Conhecimento e habilidades no uso do Console de Gerenciamento da AWS e da Interface da Linha de Comando (CLI) da AWS, compreensão do AWS Well-Architected Framework, da rede da AWS, dos serviços de segurança e da infraestrutura global da AWS
+Computação, rede, armazenamento e bancos de dados: Domine os principais conceitos e serviços da AWS relacionados a esses pilares da infraestrutura em nuvem.
+Implementação, gerenciamento e operação de workloads: Aprenda a implantar, gerenciar e operar workloads na AWS de forma eficiente e segura.
+Segurança e conformidade: Compreenda os princípios de segurança da AWS e como implementar os controles de segurança e requisitos de conformidade adequados.
+Ferramentas e frameworks: Domine o uso do Console de Gerenciamento da AWS, da Interface da Linha de Comando (CLI) da AWS e do AWS Well-Architected Framework para projetar, construir e operar arquiteturas de nuvem robustas.
+Rede, segurança e infraestrutura global da AWS: Compreenda a arquitetura da rede da AWS, os serviços de segurança disponíveis e a infraestrutura global da AWS para tomar decisões informadas sobre suas soluções em nuvem.
 
 Os estudos com metodologia "Hands-On" ("mão na massa" ou "aprender fazendo").
 
-Na minha opinião, você deve investir pelo menos 3 meses para passar no exame.
-2 meses para o curso em vídeo ou material de estudo de sua escolha (incluindo prática).
-1 mês e tres dias para revisão e realização de exames práticos.
+Na minha opinião :
+Recomenda-se dedicar pelo menos 3 meses para a preparação para o exame.
+2 meses para o curso em vídeo ou material de estudo de sua escolha e 1 mês para prática e revisão.
 
-O exame é focado principalmente no projeto de arquiteturas seguras, arquiteturas resilientes, arquiteturas de alto desempenho e arquiteturas com custo otimizado.
+O exame foca principalmente na capacidade de projetar arquiteturas seguras, resilientes, de alto desempenho e com custos otimizados."
 
-Meu  hábito ( que peguei) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos. 
-
-É uma fonte incrível de conhecimento, pois você pode encontrar mais de 1000 cursos gratuitos e pagos.
+Meu  hábito ( que peguei) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos.
+Oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa de conhecimento.
 
 Os projetos (estudos)  coloquei  GitHub . para  ajudar a organizar e priorizar  os estudos.
 
  [GITHUB ](https://github.com/users/rogtavares/projects/13)
 
 
-**Instrutores:**
+**Meus instrutores:**
 
 ·  Neal K. Davis
 
@@ -54,11 +57,12 @@ Os projetos (estudos)  coloquei  GitHub . para  ajudar a organizar e priorizar  
 
 ·  Whizlabs (Laboratórios, Sandbox)
 
+Espera-se que um arquiteto de soluções da AWS associado projete e implemente sistemas distribuídos na AWS de alto desempenho, 
+escaláveis, seguros e com custos otimizados.
 
-
-Espero que isto ajude. Boa sorte em sua jornada de certificação.
+Espero que isto ajude. Boa sorte em sua jornada de  estudos certificação.
 
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v11**
+**Gé  Tavares, v12**
