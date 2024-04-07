@@ -65,4 +65,4 @@ Espero que isto ajude. Boa sorte em sua jornada de  estudos certificação.
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v12**
+**Gé  Tavares, v13**
