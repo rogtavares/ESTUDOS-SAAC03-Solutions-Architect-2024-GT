@@ -60,9 +60,16 @@ Os projetos (estudos)  coloquei  GitHub . para  ajudar a organizar e priorizar  
 Espera-se que um arquiteto de soluções da AWS associado projete e implemente sistemas distribuídos na AWS de alto desempenho, 
 escaláveis, seguros e com custos otimizados.
 
-Espero que isto ajude. Boa sorte em sua jornada de  estudos certificação.
+Espero que isto ajude. 
+
+Claro, esta não é uma lista exaustiva do que você precisa saber, apenas uma seleção de dicas  de Ge Tavares
+sobre o que recomendo que você concentre seus estudos ao se preparar para o exame 
+AWS Certified Solutions Architect Associate (SAA-C03). 
+
+
+Boa sorte em sua jornada de  estudos certificação.
 
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v13**
+**Gé  Tavares, v14**
