@@ -22,6 +22,8 @@ Ferramentas e frameworks: Domine o uso do Console de Gerenciamento da AWS, da In
 Rede, segurança e infraestrutura global da AWS: Compreenda a arquitetura da rede da AWS, os serviços de segurança disponíveis e a infraestrutura global da AWS para tomar decisões informadas sobre suas soluções em nuvem.
 
 Os estudos com metodologia "Hands-On" ("mão na massa" ou "aprender fazendo").
+Laboratórios práticos da AWS para testar seu conhecimento sobre o ambiente AWS. 
+Cobrindo todos os tópicos importantes como S3, EC2, VPC, SNS, CloudWatch, DynamoDB, CloudFormation, etc.
 
 Na minha opinião :
 Recomenda-se dedicar pelo menos 3 meses para a preparação para o exame.
@@ -68,4 +70,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v15**
+**Gé  Tavares, v16**

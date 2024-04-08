@@ -2,11 +2,10 @@ LABORATORIOS PRATICOS / LAB GE.T Hands-On
 
 Os estudos com metodologia "Hands-On" ("mão na massa" ou "aprender fazendo").
 
-Onde encontrar Hands-on AWS?
-A AWS oferece diversos recursos para você começar:
-• Tutoriais: Explore uma biblioteca completa de tutoriais para diferentes níveis de experiência e áreas de interesse.
-• Labs: Pratique em ambientes virtuais pré-configurados com cenários reais da nuvem.
-• Documentação: Acesse guias detalhados e referências técnicas para aprofundar seu conhecimento.
+
+Laboratórios práticos da AWS para testar seu conhecimento sobre o ambiente AWS.
+Cobrindo todos os tópicos importantes como S3, EC2, VPC, SNS, CloudWatch, DynamoDB, CloudFormation, etc.
+
 Recursos em português:
 • Tutoriais práticos:  https://aws.amazon.com/pt/getting-started/hands-on
 
