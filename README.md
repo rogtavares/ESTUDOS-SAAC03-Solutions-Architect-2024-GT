@@ -32,12 +32,12 @@ O exame foca principalmente na capacidade de projetar arquiteturas seguras, resi
 Meu  hábito ( que peguei) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos.
 Oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa de conhecimento.
 
-Os projetos (estudos)  coloquei  GitHub . para  ajudar a organizar e priorizar  os estudos.
+Organizei meus estudos no GitHub para facilitar o acompanhamento e a priorização.
 
  [GITHUB ](https://github.com/users/rogtavares/projects/13)
 
 
-**Meus instrutores:**
+**Meus instrutores e materiais de apoio**
 
 ·  Neal K. Davis
 
@@ -57,19 +57,15 @@ Os projetos (estudos)  coloquei  GitHub . para  ajudar a organizar e priorizar  
 
 ·  Whizlabs (Laboratórios, Sandbox)
 
-Espera-se que um arquiteto de soluções da AWS associado projete e implemente sistemas distribuídos na AWS de alto desempenho, 
-escaláveis, seguros e com custos otimizados.
 
-Espero que isto ajude. 
+Espero que estas dicas sejam úteis para você.
 
-Claro, esta não é uma lista exaustiva do que você precisa saber, apenas uma seleção de dicas  de Ge Tavares
-sobre o que recomendo que você concentre seus estudos ao se preparar para o exame 
-AWS Certified Solutions Architect Associate (SAA-C03). 
+É importante lembrar que esta não é uma lista exaustiva do que você precisa saber para se certificar. 
+É apenas uma seleção de dicas de Ge Tavares.
 
-
-Boa sorte em sua jornada de  estudos certificação.
+Desejo-lhe boa sorte em sua jornada de estudos!
 
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v14**
+**Gé  Tavares, v15**
