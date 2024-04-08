@@ -39,3 +39,9 @@ aws configure set aws_session_token <session-token> --profile target-account
 3. Execute comandos CLI no bucket
 
 aws s3 ls s3://<bucket-name> --profile target-account
+
+## Custos
+**Ao executar os laboratórios em sua própria conta da AWS,
+você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
+
+

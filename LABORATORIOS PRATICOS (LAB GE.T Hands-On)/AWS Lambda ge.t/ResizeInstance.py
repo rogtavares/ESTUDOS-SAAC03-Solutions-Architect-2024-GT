@@ -34,6 +34,10 @@ def lambda_handler(event, context):
     except Exception as e:
         # Handle any exceptions that occur during the resizing process
         return f'Error resizing instance: {e}'
+
+    ## Custos
+**Ao executar os laboratórios em sua própria conta da AWS,
+você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
     
 GE TAVARES
 # Test event JSON: {"instanceId": "<instance-ID>"}

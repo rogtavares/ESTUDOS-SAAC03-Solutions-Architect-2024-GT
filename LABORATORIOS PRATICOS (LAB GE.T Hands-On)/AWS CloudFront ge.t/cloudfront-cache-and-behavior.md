@@ -15,4 +15,8 @@
 - Adicione o site estático como origem (use o endpoint do site)
 - Desativar cache
 - Adicione mais 2 origens para os buckets contendo os arquivos e crie/configure o OAC
-- Defina as configurações de comportamento do cache para cada origem com base no tipo de arquivo (PDF ou JPG) e no acesso padrão ao site estático
+- Defina as configurações de comportamento do cache para cada origem com base no tipo de arquivo (PDF ou JPG) e no acesso padrão ao site estático.
+
+## Custos
+**Ao executar os laboratórios em sua própria conta da AWS,
+você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
