@@ -34,9 +34,8 @@ O exame foca principalmente na capacidade de projetar arquiteturas seguras, resi
 Meu  hábito ( que peguei) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos.
 Oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa de conhecimento.
 
-Organizei meus estudos no GitHub para facilitar o acompanhamento e a priorização.
+Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects/13) para facilitar o acompanhamento e a priorização.
 
- [GITHUB ](https://github.com/users/rogtavares/projects/13)
 
 
 **Meus instrutores e materiais de apoio**
