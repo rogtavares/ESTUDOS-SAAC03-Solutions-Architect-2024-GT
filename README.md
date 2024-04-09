@@ -31,8 +31,8 @@ Recomenda-se dedicar pelo menos 3 meses para a preparação para o exame.
 
 O exame foca principalmente na capacidade de projetar arquiteturas seguras, resilientes, de alto desempenho e com custos otimizados."
 
-Meu  hábito ( que peguei) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos.
-Oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa de conhecimento.
+Hábito ( que peguei ) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos.
+Ele oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa de conhecimento.
 
 Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects/13) para facilitar o acompanhamento e a priorização.
 
@@ -61,12 +61,10 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 
 Espero que estas dicas sejam úteis para você.
 
-É importante lembrar que esta não é uma lista exaustiva do que você precisa saber para se certificar. 
-É apenas uma seleção de dicas de Ge Tavares.
 
 Desejo-lhe boa sorte em sua jornada de estudos!
 
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v17**
+**Gé  Tavares, v18**
