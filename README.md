@@ -6,7 +6,7 @@ AWS Certified Solutions Architect – Associate (SAA-C03).
 Introdução:
  Aborda os tópicos essenciais, recursos de estudo, tempo de preparação recomendado e 
 dicas para o sucesso.
-Ao seguir este guia e utilizar os recursos recomendados, você estará mais preparado para alcançar o sucesso no exame."
+Ao seguir este guia e utilizar os recursos recomendados, você estará mais preparado para alcançar o sucesso no exame.
 
 
 
@@ -38,7 +38,7 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 
 
 
-**Meus instrutores e materiais de apoio**
+****Meus instrutores e materiais de apoio****
 
 ·  Neal K. Davis
 
@@ -50,13 +50,13 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 
 ·  skillbuilder.aws (Treinamento, Laboratórios)
 
-·  awseducate.com (Laboratórios)
-
-·  aws.amazon.com/partners (Treinamento)
-
 ·  Udemy (Curso, Simulados)
 
 ·  Whizlabs (Laboratórios, Sandbox)
+
+·  awseducate.com (Laboratórios)
+
+·  aws.amazon.com/partners (Treinamento)
 
 
 Espero que estas dicas sejam úteis para você.
@@ -69,4 +69,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v16**
+**Gé  Tavares, v17**
