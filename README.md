@@ -3,9 +3,10 @@
 Preparação para o Exame 
 AWS Certified Solutions Architect – Associate (SAA-C03).
 
-Introdução:
- Aborda os tópicos essenciais, recursos de estudo, tempo de preparação recomendado e 
-dicas para o sucesso.
+
+Estudos p tornar um arquiteto de soluções da AWS para projetar soluções arquitetônicas no AWS e 
+prepare-se para o exame AWS Certified Solutions Architect – Associate (SAA-C03).
+
 Ao seguir este guia e utilizar os recursos recomendados, você estará mais preparado para alcançar o sucesso no exame.
 
 
@@ -13,13 +14,7 @@ Ao seguir este guia e utilizar os recursos recomendados, você estará mais prep
 ![BORDADO-SSA-VERSAO-GIT-V1-3700X2469](https://github.com/rogtavares/ESTUDOS-SAAC03-Solutions-Architect-2024-GT/assets/91990479/8c0e3301-88f2-49c0-8922-211d2a177732)
 
 
-Conhecimento e habilidades essenciais para o AWS Solutions Architect Associate:
 
-Computação, rede, armazenamento e bancos de dados: Domine os principais conceitos e serviços da AWS relacionados a esses pilares da infraestrutura em nuvem.
-Implementação, gerenciamento e operação de workloads: Aprenda a implantar, gerenciar e operar workloads na AWS de forma eficiente e segura.
-Segurança e conformidade: Compreenda os princípios de segurança da AWS e como implementar os controles de segurança e requisitos de conformidade adequados.
-Ferramentas e frameworks: Domine o uso do Console de Gerenciamento da AWS, da Interface da Linha de Comando (CLI) da AWS e do AWS Well-Architected Framework para projetar, construir e operar arquiteturas de nuvem robustas.
-Rede, segurança e infraestrutura global da AWS: Compreenda a arquitetura da rede da AWS, os serviços de segurança disponíveis e a infraestrutura global da AWS para tomar decisões informadas sobre suas soluções em nuvem.
 
 Os estudos com metodologia "Hands-On" ("mão na massa" ou "aprender fazendo").
 Laboratórios práticos da AWS para testar seu conhecimento sobre o ambiente AWS. 
@@ -67,4 +62,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v18**
+**Gé  Tavares, v19**
