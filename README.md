@@ -19,6 +19,8 @@ Ao seguir este guia e utilizar os recursos recomendados, você estará mais prep
 Os estudos com metodologia "Hands-On" ("mão na massa" ou "aprender fazendo").
 Laboratórios práticos da AWS para testar seu conhecimento sobre o ambiente AWS. 
 Cobrindo todos os tópicos importantes como S3, EC2, VPC, SNS, CloudWatch, DynamoDB, CloudFormation, etc.
+Por fim, não posso deixar de mencionar a importância da aplicação em projetos reais.
+
 
 Na minha opinião :
 Recomenda-se dedicar pelo menos 3 meses para a preparação para o exame.
