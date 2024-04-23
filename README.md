@@ -58,10 +58,11 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 
 Espero que estas dicas sejam úteis para você.
 
+Isso leva tempo e vale a pena.Por último, mas não menos importante, apenas relaxe e vá com calma nos estudos. 
 
 Desejo-lhe boa sorte em sua jornada de estudos!
 
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v19**
+**Gé  Tavares, v20**
