@@ -23,8 +23,8 @@ Por fim, não posso deixar de mencionar a importância da aplicação em projeto
 
 
 Na minha opinião :
-Recomenda-se dedicar pelo menos 3 meses para a preparação para o exame.
-2 meses para o curso em vídeo ou material de estudo de sua escolha e 1 mês para prática e revisão.
+Recomenda-se dedicar pelo menos 4 meses para a preparação para o exame.
+2 meses para o curso em vídeo ou material de estudo de sua escolha e 2 mês para prática e revisão.
 
 O exame foca principalmente na capacidade de projetar arquiteturas seguras, resilientes, de alto desempenho e com custos otimizados."
 
@@ -40,6 +40,8 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 ·  Neal K. Davis
 
 ·  Stéphane Maarek
+
+· Adriano Iacono 
 
 ·  Treinamento em sala de aula virtual por instrutores #AWS
 
@@ -65,4 +67,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v20**
+**Gé  Tavares, v21**
