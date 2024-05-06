@@ -4,8 +4,7 @@ Preparação para o Exame
 AWS Certified Solutions Architect – Associate (SAA-C03).
 
 
-Estudos p tornar um arquiteto de soluções da AWS para projetar soluções arquitetônicas no AWS e 
-prepare-se para o exame AWS Certified Solutions Architect – Associate (SAA-C03).
+Estudos p prepare-se para o exame AWS Certified Solutions Architect – Associate (SAA-C03).
 
 Meus estudos e  guia para preparar o sucesso no exame.
 
@@ -67,4 +66,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v22**
+**Gé  Tavares, v23**
