@@ -57,5 +57,6 @@ estresse-ng --vm 15 --vm-bytes 80% --vm-method todos --verify -t 60m -v
 você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
 
 
+
 GE TAVARES 
 
