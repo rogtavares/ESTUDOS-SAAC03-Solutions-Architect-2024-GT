@@ -3,6 +3,7 @@
 Preparação para o Exame 
 AWS Certified Solutions Architect – Associate (SAA-C03).
 
+Acesse este link: https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 Estudos p prepare-se para o exame AWS Certified Solutions Architect – Associate (SAA-C03).
 
@@ -11,6 +12,7 @@ Meus estudos e  guia para preparar o sucesso no exame.
 
 
 ![BORDADO-SSA-VERSAO-GIT-V1-3700X2469](https://github.com/rogtavares/ESTUDOS-SAAC03-Solutions-Architect-2024-GT/assets/91990479/8c0e3301-88f2-49c0-8922-211d2a177732)
+
 
 
 
@@ -25,7 +27,10 @@ Na minha opinião :
 Recomenda-se dedicar pelo menos 4 meses para a preparação para o exame.
 2 meses para o curso em vídeo ou material de estudo de sua escolha e 2 mês para prática de laboratorios e simulados  e revisão.
 
-O exame foca principalmente na capacidade de projetar arquiteturas seguras, resilientes, de alto desempenho e com custos otimizados."
+O exame foca principalmente na capacidade de projetar arquiteturas seguras, resilientes, de alto desempenho e 
+com custos otimizados. Demonstrando um forte conhecimento do AWS Well-Architected Framework.
+
+
 
 Hábito ( que peguei ) é acessar regularmente o skillbuilder.aws para encontrar novos conteúdos.
 Ele oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa de conhecimento.
@@ -42,11 +47,11 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 
 · Adriano Iacono 
 
-·  Treinamento em sala de aula virtual por instrutores #AWS
+·  Treinamento em sala de aula virtual por instrutores #AWS, via skillbuilder.aws 
 
 **Plataformas:**
 
-·  skillbuilder.aws (Treinamento, Laboratórios)
+·  Skillbuilder.aws (Treinamento, Laboratórios)
 
 ·  Udemy (Curso, Simulados)
 
@@ -66,4 +71,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v23**
+**Gé  Tavares, v25**
