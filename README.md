@@ -22,7 +22,7 @@ Cobrindo todos os tópicos importantes como S3, EC2, VPC, SNS, CloudWatch, Dynam
 Por fim, não posso deixar de mencionar a importância da aplicação em projetos reais.
 
 
-Na minha opinião :
+**Na minha opinião :**
 Recomenda-se dedicar pelo menos 5 meses para a preparação para o exame.
 3 meses para o curso em vídeo ou material de estudo de sua escolha e 2 mês para prática de laboratorios e simulados  e revisão.
 
@@ -68,4 +68,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v29*
+**Gé  Tavares, v30*
