@@ -1,11 +1,14 @@
+# API Gateway (HTTP API) + Lambda + frontend no S3
+
+> **Dica de prova:** em produção prefira bucket S3 privado + **CloudFront com OAC** em vez de site estático público.
 
 # CloudFormation Stack
 
 Vá para a página principal do CloudFormation
-Criar ARQUIVO CloudFormation
+Clique em Criar pilha (Create stack)
 Escolha o arquivo de modelo de upload
 Selecione o arquivo YAML da unidade local
-Opcional - clique em Exibir no Designer se quiser ver o AWSstack no designer
+Opcional - abra o template no **Infrastructure Composer** para visualizar a pilha (substituiu o antigo CloudFormation Designer)
 Clique em Próximo
 Confirme e clique em Criar pilha
 Criação de pilha em andamento
@@ -13,7 +16,7 @@ Pilha criada
 
 # S3 Bucket
 
-Crie um bucket S3 chamado "item-frontend-static-hosting". O URL deste bucket deve ser especificado na configuração do CORS da API de back-end para origens permitidas. E mais tarde na configuração CORS do próprio bucket. Escolha a região apropriada e permita o acesso público
+Crie um bucket S3 chamado "items-frontend-static-hosting" (use o mesmo nome em todo o lab; nomes de bucket são globais, acrescente um sufixo se já existir). O URL deste bucket deve ser especificado na configuração do CORS da API de back-end para origens permitidas. E mais tarde na configuração CORS do próprio bucket. Escolha a região apropriada e **desative o Block Public Access** deste bucket (necessário para site estático público)
 Ative a hospedagem de sites estáticos neste bucket
 Marque Ativar, hospedar site estático. E especifique index.html como documento de índice
 
@@ -53,17 +56,17 @@ Edite a configuração do CORS do bucket. Use o código a seguir e salve
 Vá para a seção API Gateway para verificar a API criada como parte da pilha CF. API de itens é criada
 É necessário copiar o Invoke URL para ser configurado na configuração do frontend
 Precisa modificar quatro coisas: Rotas, Integrações, Estágios, CORS e depois Deploy
-Clique em Palco na navegação à esquerda. Em seguida, clique em Criar
-Novo nome artístico "prod". Clique em Criar na parte inferior
+Clique em **Stages** na navegação à esquerda. Em seguida, clique em Criar
+Nome do novo estágio (stage): "prod". Clique em Criar na parte inferior
 Vá para Integrações
 Guia Gerenciar Integrações. Existe uma integração padrão, mas clicamos em Criar para criar uma nova
 Especifique o tipo de integração, a região AWS e a função Lambda. Esta função Lambda também é criada como parte da pilha CF. Clique em Criar na parte inferior
 A nova integração está pronta. Observe o ID de integração
-Now need to create 6 routes: /items (OPTIONS, GET, PUT) and /items/{id} (OPTIONS, DELETE, GET)
+Agora crie 6 rotas: /items (OPTIONS, GET, PUT) e /items/{id} (OPTIONS, DELETE, GET)
     GET /items
     PUT /items
     GET /items/{id}
-    DELETE(/items/{id}
+    DELETE /items/{id}
     OPTIONS /items
     OPTIONS /items/{id}
 
@@ -73,8 +76,8 @@ Selecione o ID de integração correspondente à integração correta. Clique em
 Repita para todas as 6 rotas
 Configurar o CORS. Todos os 6 campos devem ser configurados:
 
-    The bucket URL (for N.Virgina buckets) should be: https://YOURBUCKETNAME.s3.amazonaws.com
-    "Access-Control-Allow-Origin" has to be specified after creating the S3 bucket as its name is used in the URL. Click Save. 
+    A URL do bucket (região N. Virginia) é: https://YOURBUCKETNAME.s3.amazonaws.com
+    "Access-Control-Allow-Origin" deve ser preenchido depois de criar o bucket, pois o nome dele faz parte da URL. Clique em Salvar.
 
 Agora clique em Implantar no canto superior direito e selecione Prod Stage para implantação
 
@@ -84,10 +87,12 @@ Agora clique em Implantar no canto superior direito e selecione Prod Stage para 
 
 # client-side code
 
-# Make sure Nodejs version 12.x is installed on local computer
+# Instale o Node.js LTS (20.x ou 22.x) no computador local
+
+> O projeto original foi feito para Node.js 12 (fim de vida). Se `npm install` falhar em versões novas, tente `npm install --legacy-peer-deps`.
 
 URL de invocação deve ser configurado na configuração do frontend (frontend path: client\src\config.ts)
-For example, if invoke URL for API is "https://0zf6cghiv8.execute-api.us-east-1.amazonaws.com/prod" then apiId is first part after "https://" i.e. 0zf6cghiv8
+Por exemplo, se a Invoke URL da API for "https://0zf6cghiv8.execute-api.us-east-1.amazonaws.com/prod", o apiId é a primeira parte depois de "https://", ou seja, 0zf6cghiv8
 
 Em um prompt de comando, vá para a pasta do cliente e instale todas as dependências executando “npm install”
 Agora execute “npm run build” para criar uma compilação de produção na subpasta “build”
@@ -97,7 +102,9 @@ Depois que todo o upload estiver concluído. abra index.html na raiz do bucket S
 
 O aplicativo frontend, por padrão, abre uma página de painel que mostra o link Itens onde, na parte superior, um formulário permite adicionar novos itens especificando um ID, nome e preço exclusivos. E abaixo disso uma grade mostra os itens que foram adicionados. Os itens podem ser excluídos. Mas não pode ser atualizado.
 
-depois desliga, o servicos 
+## Limpeza
+
+Esvazie e apague o bucket S3 e exclua a pilha do CloudFormation (remove a API, a Lambda e a tabela).
 
 ## Custos
 **Ao executar os laboratórios em sua própria conta da AWS,
