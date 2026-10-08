@@ -1,0 +1,10 @@
+# Repositorios externos clonados localmente (nao versionar aqui)
+06_LABORATORIOS-PRATICOS/amazon-bedrock-workshop/
+
+# IDE
+.idea/workspace.xml
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
