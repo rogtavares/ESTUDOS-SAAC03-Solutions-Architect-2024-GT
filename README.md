@@ -5,7 +5,7 @@ AWS Certified Solutions Architect – Associate (SAA-C03).
 
 
 
-Estudos p prepare-se para o exame [AWS Certified Solutions Architect – Associate (SAA-C03) ](https://aws.amazon.com/certification/certified-solutions-architect-associate)
+Estudos para se preparar para o exame [AWS Certified Solutions Architect – Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate)
 
 
 
@@ -21,10 +21,33 @@ Com muitos laboratórios práticos da AWS para testar (seu)  conhecimento sobre 
 Cobrindo todos os tópicos importantes como S3, EC2, VPC, SNS, CloudWatch, DynamoDB, CloudFormation, etc.
 Por fim, não posso deixar de mencionar a importância da aplicação em projetos reais.
 
+## Domínios do exame SAA-C03
 
-**Na minha opinião :**
-Recomenda-se dedicar pelo menos 5 meses para a preparação para o exame.
-3 meses para o curso em vídeo ou material de estudo de sua escolha e 2 mês para prática de laboratorios e simulados  e revisão.
+| Domínio | Peso |
+|---|---|
+| 1. Arquiteturas seguras | 30% |
+| 2. Arquiteturas resilientes | 26% |
+| 3. Arquiteturas de alto desempenho | 24% |
+| 4. Arquiteturas com custo otimizado | 20% |
+
+## Estrutura do repositório
+
+| Pasta | Conteúdo |
+|---|---|
+| [01_GUIAS-DO-EXAME](01_GUIAS-DO-EXAME) | Guias principais (PT/EN), análise dos tópicos e pontos mais cobrados |
+| [02_RESUMOS-E-REVISAO](02_RESUMOS-E-REVISAO) | Palavras-chave, resumos Neal Davis / Whizcard, revisão rápida |
+| [03_REFERENCIAS-AWS](03_REFERENCIAS-AWS) | "Barsa" AWS, links de todos os serviços, Ramp-Up Guides, Well-Architected |
+| [04_SIMULADOS-E-JOGOS](04_SIMULADOS-E-JOGOS) | AWS Quest GE.T Bank (Serviços Financeiros) |
+| [05_ARTES](05_ARTES) | Artes e infográficos dos serviços AWS |
+| [06_LABORATORIOS-PRATICOS](06_LABORATORIOS-PRATICOS) | Labs hands-on (EC2, VPC/NAT, IAM, KMS, CloudWatch, CloudFront, API Gateway, Athena...) |
+| [07_DVA-C02-DEVELOPER-ASSOCIATE](07_DVA-C02-DEVELOPER-ASSOCIATE) | Material complementar para o Developer Associate |
+
+**Por onde começar:** `01_GUIAS-DO-EXAME/0.0` → `0.2` → guia `1` (PT) → labs em `06` → revisão com `02_RESUMOS-E-REVISAO`.
+
+
+**Na minha opinião:**
+Recomenda-se dedicar pelo menos 5 meses para a preparação para o exame:
+3 meses para o curso em vídeo ou material de estudo de sua escolha e 2 meses para prática de laboratórios, simulados e revisão.
 
 
 
