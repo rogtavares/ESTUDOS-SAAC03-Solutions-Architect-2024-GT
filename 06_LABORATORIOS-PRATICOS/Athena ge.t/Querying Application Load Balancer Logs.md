@@ -1,8 +1,17 @@
+# Amazon Athena - consultar logs de acesso do Application Load Balancer
+
 ## CloudFormation template URL
 
 https://s3.us-west-2.amazonaws.com/cloudformation-templates-us-west-2/ELBWithLockedDownAutoScaledInstances.template
 
 ## Policy for S3 bucket
+
+> `127311923021` é a conta do Elastic Load Balancing em **us-east-1** (cada região antiga tem a sua).
+> Regiões lançadas a partir de ago/2022 exigem o principal de serviço abaixo, que a AWS hoje recomenda para todas:
+>
+> ```json
+> "Principal": { "Service": "logdelivery.elasticloadbalancing.amazonaws.com" }
+> ```
 
 ```json
 {
@@ -94,3 +103,8 @@ WHERE user_agent LIKE '%Chrome%'
 LIMIT 10;
 ```
 
+
+## Dica de prova
+
+- Athena = SQL **serverless** direto no S3, paga por dado escaneado → reduza custo com **Parquet/ORC**, compressão e **particionamento** (ou *partition projection*).
+- Logs do ALB, CloudFront, CloudTrail e VPC Flow Logs no S3 + Athena = análise ad hoc sem servidores.

@@ -1,35 +1,28 @@
-# Introdução ao AWS Identity Access Management (IAM)
+# Introdução ao AWS Identity and Access Management (IAM)
 
+Região AWS: **Global**
 
-Região AWS: Global
-Introdução
-O que é IAM?
-Significa gerenciamento de identidade e acesso.
-IAM é um serviço web na AWS que ajuda a gerenciar o acesso do usuário aos recursos da AWS.
-O IAM permite criar e gerenciar usuários e grupos da AWS e controlar suas permissões para acessar os serviços da AWS.
-O IAM fornece uma maneira de gerenciar com segurança o acesso aos recursos da AWS, sem a necessidade de compartilhar credenciais de conta da AWS.
-O IAM é usado para controlar quem está autenticado e autorizado a usar os recursos da AWS.
-A primeira identidade no IAM é o usuário root, que tem acesso a todos os recursos da AWS.
-Os principais recursos no IAM são usuários, grupos, funções, políticas e provedores de identidade.
-As funções do IAM são como usuários do IAM, mas devem ser assumidas por qualquer pessoa que precise delas e não possuem nenhuma credencial associada a elas.
-O IAM pode ser usado no AWS Management Console, AWS CLI e AWS SDK.
-Diagrama de Arquitetura
+## O que é IAM?
 
-Detalhes da tarefa
-![21._introduction_to_amazon_iam.png](..%2F..%2F..%2F..%2F..%2FDownloads%2F21._introduction_to_amazon_iam.png)
+- Serviço que controla **quem** está autenticado (*authentication*) e **o que** pode fazer (*authorization*) na AWS.
+- Permite criar usuários, grupos, funções (*roles*) e políticas sem compartilhar as credenciais da conta.
+- A primeira identidade é o **usuário root**: acesso total; proteja com MFA e não use no dia a dia.
+- Elementos principais: usuários, grupos, funções, políticas e provedores de identidade.
+- **Roles** não têm credenciais de longo prazo: quem as assume recebe credenciais temporárias do **AWS STS**.
+- Pode ser usado pelo Console, AWS CLI e SDKs.
+- Para pessoas, a AWS recomenda **IAM Identity Center** (SSO) em vez de usuários IAM com chaves de acesso.
 
-Faça login no Console de gerenciamento da AWS.
+## Detalhes da tarefa
 
-Crie usuários IAM.
+1. Faça login no Console de gerenciamento da AWS.
+2. Crie usuários IAM.
+3. Crie grupos IAM e adicione os usuários.
+4. Anexe políticas aos grupos (princípio do menor privilégio).
+5. Validação do laboratório.
 
-Crie grupos IAM.
+## Dica de prova
 
-Validação do laboratório
-
-ficou assiim
-dia 8 de abril,
-![iZ4q222 v1.png](..%2F..%2F..%2F..%2F..%2FDownloads%2FiZ4q222%20v1.png)
-
-
-
-
+- Avaliação de políticas: **Deny explícito** > Allow explícito > Deny implícito (padrão).
+- Acesso entre contas → **role** com *trust policy* para a outra conta (`sts:AssumeRole`).
+- Aplicação no EC2/Lambda → **role** (nunca chaves de acesso no código).
+- Limite máximo de permissões: **permissions boundary** (por identidade) ou **SCP** (por conta/OU no Organizations).

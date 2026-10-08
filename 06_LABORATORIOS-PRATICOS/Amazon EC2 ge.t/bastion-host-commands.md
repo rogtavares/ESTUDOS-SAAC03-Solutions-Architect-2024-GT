@@ -1,29 +1,59 @@
-# Crie um par de chaves para usar
+# Bastion host (jump box) - acesso a instância em sub-rede privada
 
-1. Inicie um ambiente AWS CloudShell
-2. Execute o seguinte comando da AWS CLI para criar um par de chaves e fazer download localmente:
+## 1. Criar um par de chaves
 
+No **AWS CloudShell**:
+
+```bash
 aws ec2 create-key-pair --key-name CloudShellKeyPair --query 'KeyMaterial' --output text > CloudShellKeyPair.pem
-
-3. Modifique as permissões do arquivo:
-
 chmod 400 CloudShellKeyPair.pem
+```
 
-4. Execute uma instância em uma sub-rede pública e outra em uma sub-rede privada
-5. Modifique o ID da AMI, o nome da chave, o ID do grupo de segurança e o ID da sub-rede
+## 2. Iniciar uma instância na sub-rede pública (bastion) e outra na sub-rede privada
 
-aws ec2 run-instances --image-id ami-xxxxxxxxxxxx --count 1 --instance-type t2.micro --key-name CloudShellKeyPair.pem --security-group-ids sg-xxxxxxxxxxxx --subnet-id subnet- xxxxxxxxxxxx
+Troque o ID da AMI, do grupo de segurança e da sub-rede. Em `--key-name` use o **nome** do par (sem `.pem`).
 
-aws ec2 run-instances --image-id ami-02396cdd13e9a1257 --count 1 --instance-type t2.micro --key-name CloudShellKeyPair --security-group-ids sg-0cf288022e7f030cf --subnet-id subnet-07d14305b58fa9e44
+```bash
+AMI=$(aws ssm get-parameter --name /aws/service/ami-amazon-linux-latest/al2023-ami-kernel-default-x86_64 --query Parameter.Value --output text)
 
-6. Conecte-se à instância na sub-rede pública (use o IP público)
+# Bastion - sub-rede pública
+aws ec2 run-instances --image-id "$AMI" --count 1 --instance-type t3.micro \
+  --key-name CloudShellKeyPair --security-group-ids sg-xxxxxxxxxxxx --subnet-id subnet-PUBLICA \
+  --associate-public-ip-address
 
-ssh -A -i CloudShellKeyPair.pem ec2-user@<bastion-public-ip>
+# Instância privada - sub-rede privada
+aws ec2 run-instances --image-id "$AMI" --count 1 --instance-type t3.micro \
+  --key-name CloudShellKeyPair --security-group-ids sg-yyyyyyyyyyyy --subnet-id subnet-PRIVADA
+```
 
-7. Conecte-se à instância na sub-rede privada a partir da instância na sub-rede pública (use o IP privado)
+Grupos de segurança:
+- **Bastion**: entrada TCP 22 somente do seu IP.
+- **Privada**: entrada TCP 22 somente do **SG do bastion** (referência por SG, não por CIDR).
 
+## 3. Conectar
+
+```bash
+# Carrega a chave no agente SSH para poder repassá-la (-A = agent forwarding)
+eval "$(ssh-agent -s)" && ssh-add CloudShellKeyPair.pem
+
+# Bastion (IP público)
+ssh -A ec2-user@<bastion-public-ip>
+
+# A partir do bastion, a instância privada (IP privado)
 ssh ec2-user@<instance-private-ip>
+```
 
-## Custos
-**Ao executar os laboratórios em sua própria conta da AWS,
-você é responsável pelos custos de quaisquer recursos criados. Siga as etapas de limpeza para cada laboratório concluído.**
+Alternativa sem agent forwarding: `ssh -J ec2-user@<bastion-public-ip> ec2-user@<instance-private-ip>`
+
+## Dica de prova - alternativas modernas ao bastion
+
+| Opção | Precisa de porta 22 / IP público? | Quando escolher |
+|---|---|---|
+| **Bastion host** | Sim (no bastion) | Cenários legados / exigência explícita de SSH |
+| **AWS Systems Manager Session Manager** | Não | "Sem abrir portas de entrada", auditoria em CloudTrail/S3 |
+| **EC2 Instance Connect Endpoint** | Não | SSH/RDP a instâncias privadas sem bastion nem IP público |
+
+## Limpeza e custos
+
+**Ao executar os laboratórios em sua própria conta da AWS, você é responsável pelos custos dos recursos criados.**
+Encerre as duas instâncias e apague o par de chaves (`aws ec2 delete-key-pair --key-name CloudShellKeyPair`).
