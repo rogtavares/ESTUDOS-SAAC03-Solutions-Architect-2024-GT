@@ -34,7 +34,7 @@ Por fim, não posso deixar de mencionar a importância da aplicação em projeto
 
 | Pasta | Conteúdo |
 |---|---|
-| [01_GUIAS-DO-EXAME](01_GUIAS-DO-EXAME) | Guias principais (PT/EN), análise dos tópicos e pontos mais cobrados |
+| [01_GUIAS-DO-EXAME](01_GUIAS-DO-EXAME) | Guias principais (PT/EN), análise dos tópicos e pontos mais cobrados — leia junto a [errata de atualizações 2026](01_GUIAS-DO-EXAME/ERRATA-ATUALIZACOES-2026.md) |
 | [02_RESUMOS-E-REVISAO](02_RESUMOS-E-REVISAO) | Palavras-chave, resumos Neal Davis / Whizcard, revisão rápida |
 | [03_REFERENCIAS-AWS](03_REFERENCIAS-AWS) | "Barsa" AWS, links de todos os serviços, Ramp-Up Guides, Well-Architected |
 | [04_SIMULADOS-E-JOGOS](04_SIMULADOS-E-JOGOS) | AWS Quest GE.T Bank (Serviços Financeiros) |
