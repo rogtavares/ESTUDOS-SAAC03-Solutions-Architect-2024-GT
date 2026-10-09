@@ -36,7 +36,7 @@ Por fim, não posso deixar de mencionar a importância da aplicação em projeto
 |---|---|
 | [01_GUIAS-DO-EXAME](01_GUIAS-DO-EXAME) | Guias principais (PT/EN), análise dos tópicos e pontos mais cobrados — leia junto a [errata de atualizações 2026](01_GUIAS-DO-EXAME/ERRATA-ATUALIZACOES-2026.md) |
 | [02_RESUMOS-E-REVISAO](02_RESUMOS-E-REVISAO) | Palavras-chave, resumos Neal Davis / Whizcard, revisão rápida |
-| [03_REFERENCIAS-AWS](03_REFERENCIAS-AWS) | "Barsa" AWS, links de todos os serviços, Ramp-Up Guides, Well-Architected |
+| [03_REFERENCIAS-AWS](03_REFERENCIAS-AWS) | Links de todos os serviços, Ramp-Up Guides, Well-Architected — leia junto a [errata 2026](03_REFERENCIAS-AWS/ERRATA-ATUALIZACOES-2026.md). Catálogo oficial atualizado: [aws.amazon.com/products](https://aws.amazon.com/products/) |
 | [04_SIMULADOS-E-JOGOS](04_SIMULADOS-E-JOGOS) | AWS Quest GE.T Bank (Serviços Financeiros) |
 | [05_ARTES](05_ARTES) | Artes e infográficos dos serviços AWS |
 | [06_LABORATORIOS-PRATICOS](06_LABORATORIOS-PRATICOS) | Labs hands-on (EC2, VPC/NAT, IAM, KMS, CloudWatch, CloudFront, API Gateway, Athena...) |
