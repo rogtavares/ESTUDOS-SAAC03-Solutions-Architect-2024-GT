@@ -3,6 +3,8 @@
 
 # IDE
 .idea/workspace.xml
+.idea/amazonq.xml
+.idea/awsToolkit.xml
 
 # Sistema
 Thumbs.db
