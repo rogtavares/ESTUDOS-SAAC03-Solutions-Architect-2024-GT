@@ -56,8 +56,8 @@ Ele oferece mais de 1000 cursos gratuitos e pagos, tornando-se uma fonte valiosa
 
 Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects/13) para facilitar o acompanhamento e a priorização.
 
-Criei tambem MAPA MENTAL, O material possui mais de 100 serviços comentados e organizados em 15 tópicos. 
-https://rogtavares.github.io/mapamentalSAA-C03_getavares.github.io/
+Criei tambem MAPA MENTAL, O material possui mais de 300 serviços comentados e organizados em mais de 30 categorias (atualizado em novembro/2026). 
+https://rogtavares.github.io/AWS_getavares.github.io/
 
 ****Meus instrutores e materiais de apoio****
 
