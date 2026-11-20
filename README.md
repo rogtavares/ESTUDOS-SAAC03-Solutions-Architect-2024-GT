@@ -39,7 +39,7 @@ Por fim, não posso deixar de mencionar a importância da aplicação em projeto
 | [03_REFERENCIAS-AWS](03_REFERENCIAS-AWS) | Links de todos os serviços, Ramp-Up Guides, Well-Architected — leia junto a [errata 2026](03_REFERENCIAS-AWS/ERRATA-ATUALIZACOES-2026.md). Catálogo oficial atualizado: [aws.amazon.com/products](https://aws.amazon.com/products/) |
 | [04_SIMULADOS-E-JOGOS](04_SIMULADOS-E-JOGOS) | AWS Quest GE.T Bank (Serviços Financeiros) |
 | [05_ARTES](05_ARTES) | Artes e infográficos dos serviços AWS |
-| [06_LABORATORIOS-PRATICOS](06_LABORATORIOS-PRATICOS) | Labs hands-on (EC2, VPC/NAT, IAM, KMS, CloudWatch, CloudFront, API Gateway, Athena...) |
+| [06_LABORATORIOS-PRATICOS.RT](06_LABORATORIOS-PRATICOS.RT) | Labs hands-on (EC2, VPC/NAT, IAM, KMS, CloudWatch, CloudFront, API Gateway, Athena...) |
 | [07_DVA-C02-DEVELOPER-ASSOCIATE](07_DVA-C02-DEVELOPER-ASSOCIATE) | Material complementar para o Developer Associate |
 
 **Por onde começar:** `01_GUIAS-DO-EXAME/0.0` → `0.2` → guia `1` (PT) → labs em `06` → revisão com `02_RESUMOS-E-REVISAO`.
