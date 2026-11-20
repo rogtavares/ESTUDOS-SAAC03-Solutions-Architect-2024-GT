@@ -20,6 +20,7 @@ sólida e se aprofundar na infraestrutura: ajudam a distinguir a teoria dos cen�
 | Amazon CloudFront | [Cache e behaviors com várias origens](AWS%20CloudFront%20ge.t/cloudfront-cache-and-behavior.md) | Alto desempenho |
 | Amazon API Gateway | [API + Lambda + frontend S3](API-Gateway%20ge.t/Deploy%20Instructions.md) | Resiliente |
 | Amazon Athena | [Consultar logs do ALB](Athena%20ge.t/Querying%20Application%20Load%20Balancer%20Logs.md) | Custo / Desempenho |
+| AWS Emulator | [A AWS no seu computador (S3 e DynamoDB locais)](AWS%20Emulator%20ge.t/aws-emulator-local.md) | Custo / Seguro |
 
 > `amazon-bedrock-workshop/` é um clone local do workshop oficial da AWS e **não** é versionado neste repositório
 > (veja `.gitignore`). Original: https://github.com/aws-samples/amazon-bedrock-workshop
