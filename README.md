@@ -1,5 +1,7 @@
 # ESTUDOS-SAAC03-Solutions-Architect-2024-GT
 
+> 🔔 **AWS re:Invent 2026: 30/11 a 04/12.** Veja a [seção do evento](#aws-reinvent-2026-3011-a-0412) · README atualizado em 23/11/2026 (v32)
+
 Preparação para o Exame 
 AWS Certified Solutions Architect – Associate (SAA-C03).
 
@@ -59,13 +61,21 @@ Organizei meus estudos no [GITHUB ](https://github.com/users/rogtavares/projects
 Criei tambem MAPA MENTAL, O material possui mais de 300 serviços comentados e organizados em mais de 30 categorias (atualizado em novembro/2026). 
 https://rogtavares.github.io/AWS_getavares.github.io/
 
+## AWS re:Invent 2026 (30/11 a 04/12)
+
+**Novos serviços estão sendo lançados. As arquiteturas estão mudando. As decisões que você tomar a seguir são importantes.**
+
+De startups a grandes empresas, o [AWS re:Invent](https://reinvent.awsevents.com/) é o ponto de encontro da comunidade de nuvem e IA para discutir o futuro. Juntos.
+Mais de 2.200 sessões, 70% delas interativas. Especialistas que compartilham o que funcionou e o que não funcionou.
+
+Por que isso importa para quem estuda para o SAA-C03: os lançamentos do evento costumam virar novos serviços e recursos nas provas e nas arquiteturas de referência.
+Vou acompanhar os anúncios e atualizar o [Mapa Mental](https://rogtavares.github.io/AWS_getavares.github.io/) (versão 40) e as errata de atualizações 2026 depois do evento.
+
 ****Meus instrutores e materiais de apoio****
 
 ·  Neal K. Davis
 
 ·  Stéphane Maarek
-
-· Adriano Iacono 
 
 ·  Treinamento em sala de aula virtual por instrutores #AWS, via skillbuilder.aws 
 
@@ -92,4 +102,4 @@ Desejo-lhe boa sorte em sua jornada de estudos!
 
 [Música Para Estudar e Manter o Foco dos estudos ](https://open.spotify.com/playlist/1GG4WhvCAIcILpNOGaT7Vv?si=ac734ed33de54813)
 
-**Gé  Tavares, v31*
+**Gé  Tavares, v32*
